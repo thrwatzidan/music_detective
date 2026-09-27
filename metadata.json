@@ -1,0 +1,6 @@
+{
+  "name": "المحقق الموسيقي",
+  "description": "لعبة تعليمية موسيقية تفاعلية مستوحاة من المنهج المدرسي لتصنيف أنواع الأداء الموسيقي (الآلي والغنائي، المنفرد والجماعي) بصحبة الفتى العماني.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
